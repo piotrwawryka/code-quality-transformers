@@ -1,0 +1,3 @@
+[submodule "code-quality-tensorflow"]
+	path = code-quality-tensorflow
+	url = https://github.com/fracz/code-quality-tensorflow.git
