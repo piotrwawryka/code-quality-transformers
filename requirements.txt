@@ -2,7 +2,7 @@
 https://download.pytorch.org/whl/cu90/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
 
 # https://github.com/huggingface/transformers
-transformers==2.0.0
+transformers==4.30.0
 
 # For metrics
 scikit-learn==0.21.3
